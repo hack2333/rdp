@@ -11,10 +11,9 @@ Alright, let's get that [Getscreen](https://getscreen.me/en/registration) accoun
 
 ## Downloading the GitHub Workflow
 
-Now, let's snag that GitHub workflow. In the [description] Telegram(https://t.me/donyface), you'll find links to different mirrors. It's like having backup plans for your backup plans! If the server decides to snooze, you're covered. Oh, and don't worry about mirror links – we've got an explanatory 
+Now, let's snag that GitHub workflow. In the [description] Telegram(https://t.me), you'll find links to different mirrors. It's like having backup plans for your backup plans! If the server decides to snooze, you're covered. Oh, and don't worry about mirror links – we've got an explanatory 
 
-## Video Tutorial In Youtube (H0w To)
-# [Watch The Video]
+
 
 ## Let's Get Started!
 
